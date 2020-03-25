@@ -3,11 +3,11 @@ Caffet
 
 ## Explain
 When Leo went to market for buying caffet, saw caffet which is colored of red center, brown around like below
-![img](https://user-images.githubusercontent.com/26323486/77529669-692e0580-6ed3-11ea-8b14-343313cdd984.png)
-<br><br><br>
-Leo remembers how many grids are colored of red, brown. but doesn't remember how size of it.<br><br><br>
 
-Inputs are how many red, brown grids, write the function that returns width, height of caffet<br><br><br>
+![img](https://user-images.githubusercontent.com/26323486/77529669-692e0580-6ed3-11ea-8b14-343313cdd984.png)
+
+Leo remembers how many grids are colored of red, brown. but doesn't remember how size of it.
+Inputs are how many red, brown grids, write the function that returns width, height of caffet.
 
 CONSTRAINT
  - # of grids is natural number 8 or more 5000 or less
